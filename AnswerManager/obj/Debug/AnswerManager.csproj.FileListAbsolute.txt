@@ -1,0 +1,11 @@
+F:\study\毕设\Project\Retrivalor\AnswerManager\obj\Debug\AnswerManager.csprojResolveAssemblyReference.cache
+F:\study\毕设\Project\Retrivalor\AnswerManager\bin\Debug\AnswerManager.dll
+F:\study\毕设\Project\Retrivalor\AnswerManager\bin\Debug\AnswerManager.pdb
+F:\study\毕设\Project\Retrivalor\AnswerManager\bin\Debug\Parser.dll
+F:\study\毕设\Project\Retrivalor\AnswerManager\bin\Debug\Retrivalor.dll
+F:\study\毕设\Project\Retrivalor\AnswerManager\bin\Debug\Lucene.Net.dll
+F:\study\毕设\Project\Retrivalor\AnswerManager\bin\Debug\Parser.pdb
+F:\study\毕设\Project\Retrivalor\AnswerManager\bin\Debug\Retrivalor.pdb
+F:\study\毕设\Project\Retrivalor\AnswerManager\bin\Debug\Lucene.Net.pdb
+F:\study\毕设\Project\Retrivalor\AnswerManager\obj\Debug\AnswerManager.dll
+F:\study\毕设\Project\Retrivalor\AnswerManager\obj\Debug\AnswerManager.pdb

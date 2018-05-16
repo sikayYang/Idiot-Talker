@@ -1,0 +1,23 @@
+﻿<Window x:Class="GUI.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:GUI"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="501" Width="509" HorizontalAlignment="Center" VerticalAlignment="Center" AllowsTransparency="True" WindowStyle="None" Background="#FFCFDBC7" WindowStartupLocation="CenterScreen" KeyDown="Window_KeyDown" >
+    <Grid x:Name="grid" >
+        <Button x:Name="button" Content="X" HorizontalAlignment="Left" Height="20" Margin="484,0,0,0" VerticalAlignment="Top" Width="25" Click="button_Click" Background="#FFCFDBC7" BorderThickness="0"/>
+        <Button x:Name="button1" Content="口" Height="20" Margin="459,0,25,0" VerticalAlignment="Top" Click="button1_Click" Background="#FFCFDBC7" BorderThickness="0"/>
+        <TextBox x:Name="textBox" HorizontalAlignment="Left" Height="73" Margin="0,404,0,0" TextWrapping="WrapWithOverflow" VerticalAlignment="Top" Width="509" Background="#FFCFDBC7" BorderThickness="0,1,0,0" FontSize="18" UseLayoutRounding="False"/>
+        <Button x:Name="button2" Content="发送" HorizontalAlignment="Left" Height="24" Margin="443,477,0,0" VerticalAlignment="Top" Width="66" Background="#FFCFDBC7" Click="button2_Click"/>
+        <Button x:Name="button3" Content="取消" HorizontalAlignment="Left" Height="24" Margin="372,477,0,0" VerticalAlignment="Top" Width="66" Background="#FFCFDBC7" Click="button3_Click"/>
+        <Label x:Name="label" Content="Idiot  Talker" HorizontalAlignment="Left" Margin="193,-3,0,0" VerticalAlignment="Top" FontWeight="Bold" Padding="0,4,0,0" FontSize="18"/>
+        <ScrollViewer HorizontalAlignment="Left" Height="384" Margin="0,20,0,0" VerticalAlignment="Top" Width="509" BorderThickness="1,0">
+            <StackPanel x:Name="stackPanel" Width="488">
+                <Label Content="欢迎使用Idiot Talker" FontSize="15"/>
+                <Label Content="您有什么想问的吗" FontSize="15"></Label>
+            </StackPanel>
+        </ScrollViewer>
+    </Grid>
+</Window>

@@ -1,0 +1,4 @@
+F:\study\毕设\Project\Retrivalor\Parser\bin\Debug\Parser.dll
+F:\study\毕设\Project\Retrivalor\Parser\bin\Debug\Parser.pdb
+F:\study\毕设\Project\Retrivalor\Parser\obj\Debug\Parser.dll
+F:\study\毕设\Project\Retrivalor\Parser\obj\Debug\Parser.pdb

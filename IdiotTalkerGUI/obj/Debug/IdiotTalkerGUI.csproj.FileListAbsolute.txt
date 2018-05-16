@@ -1,0 +1,9 @@
+F:\study\毕设\Project\Retrivalor\IdiotTalkerGUI\bin\Debug\IdiotTalkerGUI.exe.config
+F:\study\毕设\Project\Retrivalor\IdiotTalkerGUI\bin\Debug\IdiotTalkerGUI.exe
+F:\study\毕设\Project\Retrivalor\IdiotTalkerGUI\bin\Debug\IdiotTalkerGUI.pdb
+F:\study\毕设\Project\Retrivalor\IdiotTalkerGUI\obj\Debug\IdiotTalkerGUI.IdiotTalker.resources
+F:\study\毕设\Project\Retrivalor\IdiotTalkerGUI\obj\Debug\IdiotTalkerGUI.Properties.Resources.resources
+F:\study\毕设\Project\Retrivalor\IdiotTalkerGUI\obj\Debug\IdiotTalkerGUI.csproj.GenerateResource.Cache
+F:\study\毕设\Project\Retrivalor\IdiotTalkerGUI\obj\Debug\IdiotTalkerGUI.exe
+F:\study\毕设\Project\Retrivalor\IdiotTalkerGUI\obj\Debug\IdiotTalkerGUI.pdb
+F:\study\毕设\Project\Retrivalor\IdiotTalkerGUI\obj\Debug\IdiotTalkerGUI.csprojResolveAssemblyReference.cache
